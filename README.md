@@ -1,5 +1,4 @@
 ### Olá, Mundo!!! Eu sou o João Pedro Viana
-.
 - 🔭 Atualmente estou cursando informática no Instituto Federal de Educação Ciência e Tecnologia do Rio de Janeiro
 - 🌱 Estudando PHP, CSS, HTML e JavaScript
 - 💬 Contate-me no email: joaopedro.viana.gsouza@gmail.com

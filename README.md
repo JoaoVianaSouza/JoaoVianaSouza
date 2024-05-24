@@ -1,6 +1,7 @@
 ### Olá, Mundo!!! Eu sou o João Pedro Viana
 - 🔭 Formado em TI pelo IFRJ
 - 🌱 Análise e Des de Sistemas - Universidade do Estado do Rio de Janeiro (UERJ) - Cursando
+- 👨‍💻 Atualmente estou atuando como estagiário na empresa PASA desenvolvendo cada vez mais meus conhecimentos com a liguagem JAVA
 - 💬 Contate-me no email: joaopedro.viana.gsouza@gmail.com
 <div align="left>
   <a href="https://github.com/JoaoVianaSouza">
@@ -10,9 +11,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-HTML" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-PHP" height="40" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Joao-JS" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Joao-JS" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Joao-JS" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg">
+  
 
 </div>
 <div>

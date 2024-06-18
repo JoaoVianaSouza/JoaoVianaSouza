@@ -1,7 +1,6 @@
 ### Olá, Mundo!!! Eu sou o João Pedro Viana
 - 🔭 Formado em TI pelo IFRJ
 - 🌱 Análise e Des de Sistemas - Universidade do Estado do Rio de Janeiro (UERJ) - Cursando
-- 👨‍💻 Atualmente estou atuando como estagiário na empresa PASA desenvolvendo cada vez mais meus conhecimentos com a liguagem JAVA
 - 💬 Contate-me no email: joaopedro.viana.gsouza@gmail.com
 <div align="left>
   <a href="https://github.com/JoaoVianaSouza">

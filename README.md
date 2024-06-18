@@ -1,5 +1,5 @@
 ### Olá, Mundo!!! Eu sou o João Pedro Viana
-- 🔭 Formado em TI pelo IFRJ
+- 🔭 Técnico em Informática formado pelo Instituto Federal do Rio de Janeiro
 - 🌱 Análise e Des de Sistemas - Universidade do Estado do Rio de Janeiro (UERJ) - Cursando
 - 💬 Contate-me no email: joaopedro.viana.gsouza@gmail.com
 <div align="left>
